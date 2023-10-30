@@ -1,5 +1,5 @@
 # 스마트폰 센서 데이터 분석 활용 구상 Project
-<img src="https://github.com/BOSEONG000126/AI-X_Project/assets/116350240/8c5c1f5c-aaa9-4006-a5f6-6b2e0c7be83d"  width="800" height="250">
+<img src="https://github.com/BOSEONG000126/AI-X_Project/assets/116350240/8c5c1f5c-aaa9-4006-a5f6-6b2e0c7be83d"  width="1000" height="350">
 
 
 ## Members
