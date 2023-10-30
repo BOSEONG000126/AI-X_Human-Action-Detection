@@ -21,7 +21,7 @@
   + 반려견의 분리불안을 해소하여 좀 더 수월한 견주의 외출을 가능하게 합니다.
 <br/>
 
-## Data Set 분석
+## Data Analysis
 ### [1] 데이터 셋의 기본 변수 확인하기
 <img src="https://github.com/BOSEONG000126/AI-X_Project/assets/116350240/a179c2dc-9a2a-4954-b159-9cab67a3dc51"  width="700" height="250">
 
