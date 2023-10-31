@@ -51,11 +51,25 @@
 <br/>
 
 ## 활용
+
+### [1] 서비스 컨셉
+<img src="https://github.com/BOSEONG000126/AI-X_Project/assets/116350240/0c072553-565d-411b-aef8-5e7ceb4c531a" width="700" height="400">
+
+ + 반려견의 생활 패턴을 분석하여 견주에게 도움을 주고자 합니다.
+
+<br/>
+
+### [2] 기능
 <img src="https://github.com/BOSEONG000126/AI-X_Project/assets/116350240/a6c1cb14-e5b1-46b7-8cfc-869ad24fab83" width="700" height="400">
 
   + 활동량 체크
   + 휴식량 체크
   + 분리불안 감지
   + 수면 패턴 분석
+<br/>
 
+### [3] 기대효과
+ + 반려견과 견주들간의 의사소통 편리
+ + 반려견의 스트레스 감소
+ + 견주와 반려견 사이의 유대감 증가
 
